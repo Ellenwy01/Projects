@@ -1,3 +1,2 @@
 # Projects
-
-This respository contain my projects have done so far. 
+This respository contain projects that I have doned so far. 
